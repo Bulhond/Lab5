@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1668448700 source:c:\compprac\3lab\1\1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1668452655 source:c:\compprac\3lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dlfcn.h>
+
